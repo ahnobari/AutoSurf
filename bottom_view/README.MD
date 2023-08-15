@@ -1,0 +1,1 @@
+Images will be rendered and saved in this folder.

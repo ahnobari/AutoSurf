@@ -1,0 +1,2 @@
+model_checkpoint_path: "T-Net_Classifier"
+all_model_checkpoint_paths: "T-Net_Classifier"
